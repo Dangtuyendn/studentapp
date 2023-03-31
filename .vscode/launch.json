@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "studentappn",
+            "cwd": "studentappn",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "studentappn (profile mode)",
+            "cwd": "studentappn",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "studentappn (release mode)",
+            "cwd": "studentappn",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "studentappnn",
+            "cwd": "studenappnn\\studentappnn",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "studentappnn (profile mode)",
+            "cwd": "studenappnn\\studentappnn",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "studentappnn (release mode)",
+            "cwd": "studenappnn\\studentappnn",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
